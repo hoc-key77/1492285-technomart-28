@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Владимир Корнеев](https://up.htmlacademy.ru/htmlcss/28/user/1492285).
-* Наставник: [Дмитрий Железнов](https://htmlacademy.ru/profile/sench).
+* Наставник: [Дмитрий (sench) Железнов](https://htmlacademy.ru/profile/sench).
 
 ---
 
