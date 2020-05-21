@@ -2,7 +2,6 @@
 
 * Студент: [Владимир Корнеев](https://up.htmlacademy.ru/htmlcss/28/user/1492285).
 * Наставник: [Дмитрий(sench)Железнов](https://htmlacademy.ru/profile/sench).
-
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
